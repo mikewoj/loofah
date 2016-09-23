@@ -71,7 +71,7 @@ module Loofah
       ACCEPTABLE_ATTRIBUTES = Set.new %w[abbr accept accept-charset accesskey action
       align alt axis border cellpadding cellspacing char charoff charset
       checked cite class clear cols colspan color compact coords datetime
-      dir disabled enctype for frame headers height href hreflang hspace id
+      dir disabled enctype face for frame headers height href hreflang hspace id
       ismap label lang longdesc loop loopcount loopend loopstart
       maxlength media method multiple name nohref
       noshade nowrap poster preload prompt readonly rel rev rows rowspan rules scope
